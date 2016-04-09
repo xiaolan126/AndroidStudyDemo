@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android5Study/Android5Study.iml" filepath="$PROJECT_DIR$/Android5Study/Android5Study.iml" />
       <module fileurl="file://$PROJECT_DIR$/Android6Study/Android6Study.iml" filepath="$PROJECT_DIR$/Android6Study/Android6Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudyDemo.iml" filepath="$PROJECT_DIR$/AndroidStudyDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/AnimationStudy/AnimationStudy.iml" filepath="$PROJECT_DIR$/AnimationStudy/AnimationStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/AnnotationStudy/AnnotationStudy.iml" filepath="$PROJECT_DIR$/AnnotationStudy/AnnotationStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArithmeticStudy/ArithmeticStudy.iml" filepath="$PROJECT_DIR$/ArithmeticStudy/ArithmeticStudy.iml" />
@@ -24,7 +25,6 @@
       <module fileurl="file://$PROJECT_DIR$/OptimizeStudy/OptimizeStudy.iml" filepath="$PROJECT_DIR$/OptimizeStudy/OptimizeStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/PluggableStudy/PluggableStudy.iml" filepath="$PROJECT_DIR$/PluggableStudy/PluggableStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/SecurityStudy/SecurityStudy.iml" filepath="$PROJECT_DIR$/SecurityStudy/SecurityStudy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StudyDemo.iml" filepath="$PROJECT_DIR$/StudyDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/StyleStudy/StyleStudy.iml" filepath="$PROJECT_DIR$/StyleStudy/StyleStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/UiImitateStudy/UiImitateStudy.iml" filepath="$PROJECT_DIR$/UiImitateStudy/UiImitateStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Utils/Utils.iml" filepath="$PROJECT_DIR$/Utils/Utils.iml" />
